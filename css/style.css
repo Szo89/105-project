@@ -14,3 +14,8 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+
+span{
+	color: pink;
+	font-size: 40px;
+}
